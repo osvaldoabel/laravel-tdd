@@ -1,8 +1,8 @@
 
-## what actually is this project ?
-It is a Laravel basic project using TDD and uses for dev environment.
+## About the project
+It is a Laravel basic project using TDD and uses *Docker* for dev environment.
 
-##installation
+## installation
 After clone this repo, go to the root of project, and then: 
 
 ``` sh
